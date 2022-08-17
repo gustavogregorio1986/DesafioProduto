@@ -21,6 +21,15 @@ namespace DesafioProduto.Data.Contexto
 
         }
 
+        public static DbContextOptions<DbContext> GetInMemoryDbContextOptions(string dbName = "Test_DB")
+        {
+            var options = new DbContextOptionsBuilder<DbContext>()
+                .UseInMemoryDatabase(databaseName: dbName)
+                .Options;
+
+            return options;
+        }
+
         public DbSet<Produto> Produtos { get; set; }
 
         public DbSet<ItemEstoque> ItemEstoques { get; set; }
