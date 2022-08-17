@@ -26,5 +26,7 @@ namespace DesafioProduto.Data.Contexto
         public DbSet<ItemEstoque> ItemEstoques { get; set; }
 
         public DbSet<Loja> Lojas { get; set; }
+
+        
     }
 }
