@@ -50,10 +50,10 @@ namespace DesafioProduto.Controllers
             foreach (var itemEstoque in listarItemEstoque)
             {
                 listarItemEstoque.Add(itemEstoque);
-                ItemEstoqueServico.
+                ItemEstoqueServico.ListarItemEstoque();
             }
 
-            return listarLoja;
+            return listarItemEstoque;
         }
 
         [HttpGet]

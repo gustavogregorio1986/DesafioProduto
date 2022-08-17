@@ -64,3 +64,4 @@ C:\DesafioProduto\DesafioProduto\DesafioProduto\obj\Debug\net5.0\refint\DesafioP
 C:\DesafioProduto\DesafioProduto\DesafioProduto\obj\Debug\net5.0\DesafioProduto.pdb
 C:\DesafioProduto\DesafioProduto\DesafioProduto\obj\Debug\net5.0\DesafioProduto.genruntimeconfig.cache
 C:\DesafioProduto\DesafioProduto\DesafioProduto\obj\Debug\net5.0\ref\DesafioProduto.dll
+C:\DesafioProduto\DesafioProduto\DesafioProduto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll

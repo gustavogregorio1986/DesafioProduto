@@ -37,7 +37,7 @@ namespace DesafioProduto.Servico.Servico
             return itemEstoqueRepositorio.Buscar(id, id);
         }
 
-        public List<ItemEstoque> ListarLoja()
+        public List<ItemEstoque> ListarItemEstoque()
         {
             return itemEstoqueRepositorio.ObterTodos();
         }

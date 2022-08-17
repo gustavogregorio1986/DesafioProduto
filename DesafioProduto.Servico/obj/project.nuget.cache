@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TO0h2yKJeiIrZ5v/4XPjevD3nxg2mw2hA6u2kf18tfrnf+wS8AOtMwLCJS7lwyjfog5nYd/jPz4b9vEX3LVQpg==",
+  "dgSpecHash": "oX2DYGro/QxoUjuuDINHBaFmgMOcLJi9eUBuPFP4ZxSSEEq+7XloU9ppqWYc+hLLvF3MmcJ3BDJ0NV0PAfrADg==",
   "success": true,
   "projectFilePath": "C:\\DesafioProduto\\DesafioProduto\\DesafioProduto.Servico\\DesafioProduto.Servico.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.13\\microsoft.entityframeworkcore.5.0.13.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.13\\microsoft.entityframeworkcore.abstractions.5.0.13.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.13\\microsoft.entityframeworkcore.analyzers.5.0.13.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.13\\microsoft.entityframeworkcore.inmemory.5.0.13.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.13\\microsoft.entityframeworkcore.relational.5.0.13.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.13\\microsoft.entityframeworkcore.sqlserver.5.0.13.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
