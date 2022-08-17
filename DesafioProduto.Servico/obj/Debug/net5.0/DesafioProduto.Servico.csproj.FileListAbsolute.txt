@@ -1,0 +1,17 @@
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\bin\Debug\net5.0\DesafioProduto.Servico.deps.json
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\bin\Debug\net5.0\DesafioProduto.Servico.dll
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\bin\Debug\net5.0\DesafioProduto.Servico.pdb
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\bin\Debug\net5.0\DesafioProduto.Data.dll
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\bin\Debug\net5.0\DesafioProduto.Dominio.dll
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\bin\Debug\net5.0\DesafioProduto.Data.pdb
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\bin\Debug\net5.0\DesafioProduto.Dominio.pdb
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\DesafioProduto.Servico.csproj.AssemblyReference.cache
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\DesafioProduto.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\DesafioProduto.Servico.AssemblyInfoInputs.cache
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\DesafioProduto.Servico.AssemblyInfo.cs
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\DesafioProduto.Servico.csproj.CoreCompileInputs.cache
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\DesafioProduto.Servico.csproj.CopyComplete
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\DesafioProduto.Servico.dll
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\refint\DesafioProduto.Servico.dll
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\DesafioProduto.Servico.pdb
+C:\DesafioProduto\DesafioProduto\DesafioProduto.Servico\obj\Debug\net5.0\ref\DesafioProduto.Servico.dll
