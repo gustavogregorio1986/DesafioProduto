@@ -21,7 +21,7 @@ namespace DesafioProduto.Data.Contexto
 
         }
 
-        public static DbContextOptions<DbContext> GetInMemoryDbContextOptions(string dbName = "Test_DB")
+        public static DbContextOptions<DbContext> GetInMemoryDbContextOptions(string dbName = "proddesafio_db")
         {
             var options = new DbContextOptionsBuilder<DbContext>()
                 .UseInMemoryDatabase(databaseName: dbName)
